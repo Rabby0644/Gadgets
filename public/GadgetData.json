@@ -1,0 +1,237 @@
+[
+  {
+    "product_id": "P1001",
+    "product_title": "Smart Watch",
+    "product_image": "https://i.ibb.co/mCSnDBgP/download-1.jpg",
+    "category": "Electronics",
+    "price": 49.99,
+    "description": "High-quality Bluetooth headphones with active noise cancellation and a 20-hour battery life.",
+    "Specification": [
+      "Bluetooth 5.0",
+      "Noise Cancellation",
+      "20-hour battery life",
+      "Built-in microphone"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P1002",
+    "product_title": "Smart LED TV 50\"",
+    "product_image": "https://i.ibb.co/8gJY3MQY/download.jpg",
+    "category": "Home Appliances",
+    "price": 399.99,
+    "description": "50-inch Smart LED TV with 4K resolution and built-in streaming apps.",
+    "Specification": [
+      "4K UHD",
+      "HDMI x3",
+      "Smart TV",
+      "HDR10 Support"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P1003",
+    "product_title": "Gaming Laptop",
+    "product_image": "https://i.ibb.co/chSGHzxk/download-2.jpg",
+    "category": "Computers",
+    "price": 1199.99,
+    "description": "High-performance gaming laptop with RTX graphics and 16GB RAM.",
+    "Specification": [
+      "Intel i7",
+      "16GB RAM",
+      "512GB SSD",
+      "RTX 3060"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P1004",
+    "product_title": "Espresso Coffee Machine",
+    "product_image": "https://i.ibb.co/chSGHzxk/download-2.jpg",
+    "category": "Kitchen Appliances",
+    "price": 129.99,
+    "description": "Automatic espresso machine with milk frother.",
+    "Specification": [
+      "15-bar pump",
+      "Built-in frother",
+      "Removable tank",
+      "One-touch operation"
+    ],
+    "availability": false,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P1005",
+    "product_title": "Wireless Mouse",
+    "product_image":"https://i.ibb.co/chSGHzxk/download-2.jpg",
+   
+    "category": "Accessories",
+    "price": 14.99,
+    "description": "Ergonomic wireless mouse with long battery life.",
+    "Specification": [
+      "2.4GHz Wireless",
+      "Ergonomic Design",
+      "Adjustable DPI"
+    ],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P1006",
+    "product_title": "4-Slice Toaster",
+    "product_image":"https://i.ibb.co/chSGHzxk/download-2.jpg",
+    "category": "Kitchen Appliances",
+    "price": 39.99,
+    "description": "4-slice stainless steel toaster with adjustable browning levels.",
+    "Specification": [
+      "7 Browning Settings",
+      "Crumb Tray",
+      "Reheat Function"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P1007",
+    "product_title": "Fitness Smartwatch",
+    "product_image": "https://i.ibb.co/chSGHzxk/download-2.jpg",
+    "category": "Wearables",
+    "price": 89.99,
+    "description": "Water-resistant fitness watch with heart rate monitor and GPS.",
+    "Specification": [
+      "Heart Rate Monitor",
+      "GPS",
+      "Water-Resistant",
+      "Sleep Tracking"
+    ],
+    "availability": false,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P1008",
+    "product_title": "Mechanical Keyboard",
+    "product_image":"https://i.ibb.co/chSGHzxk/download-2.jpg",
+    "category": "Accessories",
+    "price": 59.99,
+    "description": "RGB mechanical keyboard with blue switches.",
+    "Specification": [
+      "RGB Lighting",
+      "Blue Switches",
+      "Anti-Ghosting",
+      "USB Connection"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P1009",
+    "product_title": "Electric Kettle",
+    "product_image":"https://i.ibb.co/chSGHzxk/download-2.jpg",
+    "category": "Kitchen Appliances",
+    "price": 24.99,
+    "description": "Stainless steel electric kettle with auto shut-off and boil-dry protection.",
+    "Specification": [
+      "1.7L Capacity",
+      "Auto Shut-Off",
+      "Boil-Dry Protection"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P1010",
+    "product_title": "Air Purifier",
+    "product_image": "https://i.ibb.co/chSGHzxk/download-2.jpg",
+    "category": "Home Appliances",
+    "price": 149.99,
+    "description": "HEPA air purifier suitable for medium to large rooms.",
+    "Specification": [
+      "HEPA Filter",
+      "Quiet Mode",
+      "Timer Function"
+    ],
+    "availability": false,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P1011",
+    "product_title": "Smartphone 128GB",
+    "product_image": "https://i.ibb.co/chSGHzxk/download-2.jpg",
+    "category": "Electronics",
+    "price": 699.99,
+    "description": "Latest model smartphone with 128GB storage and AMOLED display.",
+    "Specification": [
+      "128GB Storage",
+      "Triple Camera",
+      "AMOLED Display"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P1012",
+    "product_title": "Portable Speaker",
+    "product_image": "https://i.ibb.co/chSGHzxk/download-2.jpg",
+    "category": "Electronics",
+    "price": 34.99,
+    "description": "Water-resistant portable Bluetooth speaker with 10-hour battery life.",
+    "Specification": [
+      "Bluetooth 5.0",
+      "Water-Resistant",
+      "10-Hour Battery"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P1013",
+    "product_title": "Robot Vacuum Cleaner",
+    "product_image": "https://i.ibb.co/chSGHzxk/download-2.jpg",
+    "category": "Home Appliances",
+    "price": 249.99,
+    "description": "Smart robot vacuum with mapping and voice control support.",
+    "Specification": [
+      "App Control",
+      "Voice Commands",
+      "Mapping Feature",
+      "Auto Recharge"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P1014",
+    "product_title": "Adjustable Office Chair",
+    "product_image": "https://i.ibb.co/chSGHzxk/download-2.jpg",
+    "category": "Furniture",
+    "price": 139.99,
+    "description": "Ergonomic office chair with lumbar support and adjustable height.",
+    "Specification": [
+      "Ergonomic Design",
+      "Adjustable Height",
+      "Mesh Back",
+      "360° Swivel"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P1015",
+    "product_title": "Tablet 10.1\" 64GB",
+    "product_image": "https://i.ibb.co/chSGHzxk/download-2.jpg",
+    "category": "Electronics",
+    "price": 199.99,
+    "description": "10.1-inch tablet with 64GB storage and quad-core processor.",
+    "Specification": [
+      "10.1-inch Display",
+      "64GB Storage",
+      "Quad-Core CPU",
+      "Android OS"
+    ],
+    "availability": true,
+    "rating": 4.0
+  }
+]
