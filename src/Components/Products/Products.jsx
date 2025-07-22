@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Products = ( { product }) => {
 
-const {product_image,product_title,category,price, product_id} = product;
+const {product_image,product_title,category,price, product_id,Specification} = product;
 
     return (
     <div className="card bg-base-100 w-96 shadow-sm  ">
@@ -18,7 +18,7 @@ const {product_image,product_title,category,price, product_id} = product;
    <p>Price: {price}</p>
     <div className="card-actions">
       <Link to={`/productsDetils/${product_id}`}>
-      <button className="btn btn-primary">View Details</button>
+      <button className="btn btn-primary  hover:bg-white  hover:text-purple-800">View Details</button>
       </Link>
     </div>
   </div>

@@ -7,10 +7,10 @@
     "price": 49.99,
     "description": "High-quality Bluetooth headphones with active noise cancellation and a 20-hour battery life.",
     "Specification": [
-      "Bluetooth 5.0",
-      "Noise Cancellation",
-      "20-hour battery life",
-      "Built-in microphone"
+      ".Bluetooth 5.0",
+      ".Noise Cancellation",
+      ".20-hour battery life",
+      ".Built-in microphone"
     ],
     "availability": true,
     "rating": 4.5
